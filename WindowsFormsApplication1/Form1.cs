@@ -16,5 +16,11 @@ namespace WindowsFormsApplication1
         {
             InitializeComponent();
         }
+        #region проверка...
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+        # endregion
     }
 }
